@@ -3,8 +3,8 @@ package com.packag;
 public class PakageClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		System.out.println("Changes in git hub for the first time");
 	}
 
 }
